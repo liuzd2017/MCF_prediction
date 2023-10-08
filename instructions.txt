@@ -1,0 +1,4 @@
+This is a GUI for estimation of the mean cutting force of conical pick based on CatBoost. 
+Download all three files ("MCF_prediction.exe","catboost_model.cbm", and "scaler.pkl") in the same folder and click on the "MCF_prediction.exe" file to run it. 
+Required input parameters: Uniaxial compression strength of rock, tensile strength of rock, tip angle, attack angle, and cutting depth. 
+Output: Mean cutting force of conical pick.
